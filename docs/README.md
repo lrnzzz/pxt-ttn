@@ -6,7 +6,7 @@ For an initial commit of interesting items for this repro
 
 ### targets
 
-* <http://makecode.com> with initial interest in the micro:bit
+* <http://makecode.com> with initial interest in the [micro:bit](microbit.md)
 
 ### LoRaWAN modules
 
