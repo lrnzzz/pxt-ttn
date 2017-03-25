@@ -11,6 +11,7 @@ For an initial commit of interesting items for this repro
 ### LoRaWAN modules
 
 * <http://www.microchip.com/wwwproducts/en/RN2483> as the RN2483 has previous work with micro:bit
+* <https://github.com/lrnzzz/RN2483-LoRa-Shield> an arduino shield that can be hooked up to a micro:bit
 * <http://www.embit.eu/products/wireless-modules/emb-lr1272> as the RN2483 is out of stock due to new version
 
 ### Boards
