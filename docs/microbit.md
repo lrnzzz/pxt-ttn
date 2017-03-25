@@ -10,6 +10,8 @@ However, a board should allow for remaping of the pins as application of the mic
 
 pxt allows for remap of serial to p0,1,2,8,12,13,14,15,16
 
+For a complete technical information, <http://tech.microbit.org/hardware/>
+
 ## pin out
 
 ![microbitpinout](media/microbit_platform_image_2.png)
