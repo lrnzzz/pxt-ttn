@@ -30,6 +30,10 @@ In general, rx/tx is used to communicate. However, the key issue is to ensure th
 * <https://makecode.com/defining-blocks> allows for block creation as a quick implementation
 * <https://pxt.microbit.org/packages> allow for the packaging of ttn: the final aim of pxt-ttn
 
+There is support for serial, which can possibly be reused.
+
+![serial blocks](media/blocks.png)
+
 ## Application
 
 * ttn is about creating a final application based on the inputs and outputs of a target
