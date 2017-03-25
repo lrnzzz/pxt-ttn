@@ -19,7 +19,9 @@ In general, rx/tx is used to communicate. However, the key issue is to ensure th
 
 * <https://github.com/ribbotson/LoRaWAN_MicroBit> carrier for both micro:bit and LoRaWAN modules
 * <https://github.com/lrnzzz/RN2483-LoRa-Shield> an arduino shield that can be hooked up to a micro:bit
-* protoype carriers with just leads are also available to ensure access to POC's
+* prototype carriers with just leads are also available to ensure access to POC's
+  * <https://www.proto-pic.co.uk/breadbit-breakout-board-for-microbit.html>
+  * and others.
 
 ## Software
 
