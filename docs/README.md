@@ -6,7 +6,7 @@ For an initial commit of interesting items for this repro
 
 ### targets
 
-* <http://makecode.com> with initial interest in the micro:bit
+* <http://makecode.com> with initial interest in the [micro:bit](microbit.md)
 
 ### LoRaWAN modules
 
@@ -29,6 +29,10 @@ In general, rx/tx is used to communicate. However, the key issue is to ensure th
 
 * <https://makecode.com/defining-blocks> allows for block creation as a quick implementation
 * <https://pxt.microbit.org/packages> allow for the packaging of ttn: the final aim of pxt-ttn
+
+There is support for serial, which can possibly be reused as standard Typescript/POC with correct initialisation of TTN.
+
+![serial blocks](media/blocks.png)
 
 ## Application
 
