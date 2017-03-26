@@ -17,6 +17,7 @@ Reference:
 
 From the interfaces, one can identify some of the parameters needed for TTN which could be created by reusing the definition of serial.redirect with addition of extra paramters. A parameter for the type of LoRaWAN module used is recommended: at the present time, RN2483 is used for disection.
 
+Note: that a LoRaWAN module has an EUI: this is used in registration on TTN and should be known at TTN Registration by some means.
 
 * Basic Serial for target
   * define tx/rx pins
