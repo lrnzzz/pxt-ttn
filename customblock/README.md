@@ -21,9 +21,9 @@ Note that a parameter for the type of LoRaWAN module used should be a parameter
   * define tx/rx pins
   * baud 57600
 * Init of RN2483 with
-  * Over The Air Activation (OTA)
+  * Over The Air Activation (OTA) - preferred <https://www.thethingsnetwork.org/docs/devices/registration.html> 
     * `bool initOTA(const uint8_t devEUI[8], const uint8_t appEUI[8], const uint8_t appKey[16], bool adr = true);`
-  * Activation By Personization (ABP) - depretiated?
+  * Activation By Personization (ABP) 
     * `bool initABP(const uint8_t devAddr[4], const uint8_t appSKey[16], const uint8_t nwkSKey[16], bool adr = true);`
 
 
