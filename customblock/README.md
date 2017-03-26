@@ -2,8 +2,10 @@
 
 A quick look at a custom block that can give ideas for a package of blocks needed
 
-Reference <https://github.com/ribbotson/MERL-Microbit/tree/Development/RN2483/source>
+Reference:
 
+* <https://github.com/ribbotson/MERL-Microbit/tree/Development/RN2483/source>
+  * A reference based on Arduino implementation could also be used.
 * Interfaces
   * <https://github.com/ribbotson/MERL-Microbit/blob/Development/RN2483/source/sodaq_RN2483.h>
 * Implementation
@@ -13,9 +15,8 @@ Reference <https://github.com/ribbotson/MERL-Microbit/tree/Development/RN2483/so
 
 ## Initialisation
 
-From the interfaces, one can identify some of the parameters needed for TTN which could be created by reusing the definition of serial.redirect with addition of extra paramters.A
+From the interfaces, one can identify some of the parameters needed for TTN which could be created by reusing the definition of serial.redirect with addition of extra paramters. A parameter for the type of LoRaWAN module used is recommended: at the present time, RN2483 is used for disection.
 
-Note that a parameter for the type of LoRaWAN module used should be a parameter
 
 * Basic Serial for target
   * define tx/rx pins
